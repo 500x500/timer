@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Code Pro", serif;
+    margin-top: 20em;
+}
+
+#clock{
+    color: white;
+    font-size: 3em;
+}
+
+#color{
+    color: gray;
+}
